@@ -13,3 +13,12 @@ states/
 # Optional
 .env
 .env.local
+.DS_Store
+cache/
+cache_forge/
+compilation-errors.json
+deployments/
+lib/
+node_modules/
+out/
+typechain-types/
