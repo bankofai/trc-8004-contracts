@@ -1,5 +1,6 @@
 import { HardhatUserConfig } from '@sun-protocol/sunhat';
 import '@nomicfoundation/hardhat-toolbox';
+import '@nomiclabs/hardhat-ethers';
 import '@nomiclabs/hardhat-vyper';
 import '@sun-protocol/sunhat';
 import '@nomicfoundation/hardhat-foundry';
