@@ -17,7 +17,6 @@ states/
 cache/
 cache_forge/
 compilation-errors.json
-deployments/
 lib/
 node_modules/
 out/
