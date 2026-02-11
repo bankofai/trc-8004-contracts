@@ -14,7 +14,7 @@ TRC-8004 is an open, neutral standard for trustless AI agent identity, reputatio
 ## Features
 
 - **TRC-721 Identity Registry**: Agents are minted as NFTs with unique IDs and metadata storage.
-- **Verified Agent Wallets**: Secure linking of payment wallets to agents using TIP-712 signatures.
+- **Verified Agent Wallets**: Secure linking of payment wallets to agents using TRC-712 signatures.
 - **Spam-Resistant Feedback**: Anyone can leave feedback, with on-chain aggregation and revocation support.
 - **Validation Hooks**: Generic interface for requesting and recording independent validations.
 - **Tron-Optimized**: Designed for the TRON network with high throughput and low fees.
@@ -103,7 +103,7 @@ npm run deploy
 
 ## Security
 
-The `IdentityRegistry` uses **TIP-712** for secure wallet verification. Agent wallets are automatically reset upon NFT transfer to ensure security of the new owner.
+The `IdentityRegistry` uses **TRC-712** for secure wallet verification. Agent wallets are automatically reset upon NFT transfer to ensure security of the new owner.
 
 *Note: These contracts are reference implementations and should undergo a professional audit before mainnet deployment.*
 
