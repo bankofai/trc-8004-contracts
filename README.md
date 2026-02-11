@@ -107,6 +107,3 @@ The `IdentityRegistry` uses **TRC-712** for secure wallet verification. Agent wa
 
 *Note: These contracts are reference implementations and should undergo a professional audit before mainnet deployment.*
 
-## License
-
-This project is licensed under **CC0-1.0**.
